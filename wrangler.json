@@ -5,8 +5,8 @@
 
    "kv_namespaces": [
     {
-      "binding": "93d196c79cba47e7b2d8de6659a19d17",
-      "id": "PUT-KV-ID-HERE"
+      "binding": "PROJECTS_KV",
+      "id": "93d196c79cba47e7b2d8de6659a19d17"
     }
   ],
 
