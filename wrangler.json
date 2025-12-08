@@ -9,6 +9,10 @@
       "id": "93d196c79cba47e7b2d8de6659a19d17"
     }
   ],
+  "assets": {
+  "directory": "./dist"
+}
+
 
   "d1_databases": [
     {
