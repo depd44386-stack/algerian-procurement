@@ -3,6 +3,10 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-10-08",
 
+  "assets": {
+    "directory": "./dist"
+  },
+
   "kv_namespaces": [
     {
       "binding": "PROJECTS_KV",
