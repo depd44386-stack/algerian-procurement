@@ -3,16 +3,12 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-10-08",
 
-   "kv_namespaces": [
+  "kv_namespaces": [
     {
       "binding": "PROJECTS_KV",
       "id": "93d196c79cba47e7b2d8de6659a19d17"
     }
   ],
-  "assets": {
-  "directory": "./dist"
-}
-
 
   "d1_databases": [
     {
@@ -20,8 +16,11 @@
       "database_name": "d1-template-database",
       "database_id": "b6f43c63-12fd-4458-a2cb-2d7e3fec0cb2"
     }
-  ]
+  ],
+
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  }
 }
 
-
-    
