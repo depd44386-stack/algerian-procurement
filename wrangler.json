@@ -3,9 +3,7 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-10-08",
 
- 
-
-  "kv_namespaces": [
+   "kv_namespaces": [
     {
       "binding": "93d196c79cba47e7b2d8de6659a19d17",
       "id": "PUT-KV-ID-HERE"
